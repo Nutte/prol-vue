@@ -64,4 +64,3 @@ typings/
 node_modules/
 .vscode/
 assets/build/
-package-lock.json

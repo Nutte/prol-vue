@@ -1,0 +1,430 @@
+<template>
+    <div>
+
+        <!-- hero sektion -->
+
+        <div class="container-fluid hero text-center text-md-left">
+
+            <!-- Grid row -->
+            <div class="row hero-bg">
+
+
+                <!-- text -->
+                <div class="hero-txt d-flex align-items-center flex-column justify-content-center">
+
+                    <h3>
+                        Rainbow Six Siege
+                    </h3>
+
+                    <hr class="hero-hr">
+
+                    <h4>
+                        русскоязычные турниры
+                    </h4>
+
+                    <button type="button" class="btn btn-hero">
+                        ПЕРВЫЙ ТУРНИР НА PS4
+                    </button>
+
+                </div>
+                <!-- text -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- hero sektion -->
+
+
+
+        <!-- about us sektion -->
+
+        <div class="container-fluid text-center about ">
+
+            <!-- Grid row -->
+            <div class="row">
+
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 text-md-right">
+
+                    <iframe width="500" height="281" src="https://www.youtube.com/embed/Vsc4_c3HxTQ" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 text-md-left txt">
+
+                    <h3>
+                        proleague.pro
+                    </h3>
+
+
+                    <p>
+                        Вы находитесь на платформе русскоязычных турниров по Rainbow Six Siege.<br>
+                        Собирайте команду, заявляйтесь на турнир и докажите, что вы лучшие в русскоязычном сообществе.
+                    </p>
+
+
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- about us sektion -->
+
+
+
+        <!-- frst tourney sektion -->
+
+        <div class="container-fluid text-center text-md-left tourney">
+
+            <!-- Grid row -->
+            <div class="row">
+
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 d-flex flex-column justify-content-center">
+
+                    <div class="bold">
+                        РЕГИСТРАЦИЯ ЗАКРЫТА
+                    </div>
+                    <h3>
+                        Первый турнир на PS4
+                    </h3>
+                    <hr class="hero-tor">
+                    <div class="bold">
+                        РЕГИСТРАЦИЯ ЗАКРЫТА
+                    </div>
+
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <img src="./../../assets/img/first-season-ps4.png" width="300" height="300" class="img-tor" alt="">
+
+                    <p>
+                        Первый сезон 2019 года на PS4.<br>
+                        10 команд. Формат чемпионата. По 2 игры с каждым соперником.<br>
+                        Длительность турнира 4 недели.<br>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- frst tourney sektion -->
+
+
+
+        <!-- request sektion -->
+
+        <div class="container-fluid text-center text-md-left">
+
+            <!-- Grid row -->
+            <div class="row  ">
+
+
+                <!-- Grid column -->
+                <div class="request d-flex align-items-center flex-column justify-content-center">
+
+                    <h3>
+                        Набор команд на первые турниры
+                    </h3>
+
+                    <p>
+                        Это будут первые турниры для русскоязычной аудитории по Rainbow Six Siege. Пройдут они на двух
+                        платформах — это ПК и ПС4. Для каждой платформы свои правила и требования. Для каждой платформы
+                        свои условия. Но сообщество единое.
+                    </p>
+
+                    <a href="#" target="_blank" class="btn btn-request">
+                        ПОДАТЬ ЗАЯВКУ НА PS4
+                    </a>
+
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- request sektion -->
+
+
+
+        <!-- qwes sektion -->
+
+        <div class="container-fluid text-center text-md-left">
+
+            <!-- Grid row -->
+            <div class="row qwes">
+                <div class="qwes-title">
+                    <h3>
+                        Вопрос - ответ
+                    </h3>
+                    <p>
+                        Подавая заявку, вы автоматически соглашаетесь с описанными правилами
+                    </p>
+                </div>
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 block-qwes">
+                    <h4>
+                        Форматы турниров
+                    </h4>
+                    <p>
+                        Турнир проходит в формате чемпионата до 10 команд. По 2 матча (дома и на выезде) с каждым
+                        соперником.
+                    </p>
+                    <hr class="hr-qwes">
+
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 block-qwes">
+
+                    <h4>
+                        Как считаются очки
+                    </h4>
+                    <p>
+                        Здесь все очень просто. Есть два показателя: Победы и поражения. У кого будет больше побед, тот
+                        и победил.
+                    </p>
+                    <hr class="hr-qwes">
+
+                </div>
+                <!-- Grid column -->
+
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 block-qwes">
+
+                    <h4>
+                        В случае равенства побед
+                    </h4>
+                    <p>
+                        В случае равенства побед будут учитываться поражения. У кого их меньше, тот и выше. При всех
+                        равных показателях — золотой матч.
+                    </p>
+                    <hr class="hr-qwes">
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 block-qwes">
+
+                    <h4>
+                        Иерархия дивизионов
+                    </h4>
+                    <p>
+                        На данном этапе будет один дивизион для каждой платформы (ПК, ПС4). При увеличении к-ва команд,
+                        дивизионы будут пересмотрены.
+                    </p>
+                    <hr class="hr-qwes">
+
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- qwes sektion -->
+
+
+
+        <!-- money sektion -->
+
+        <div class="container-fluid text-center text-md-left">
+
+            <!-- Grid row -->
+            <div class="row money">
+
+
+                <div class="title-money">
+                    <h3>
+                        Взносы за участие в турнире
+                    </h3>
+                    <p>
+                        <b>
+                            Участие в первом турнире БЕСПЛАТНО
+                        </b>
+                    </p>
+                </div>
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 d-flex justify-content-start money-block">
+                    <div class="icon-money">
+                        <i class="fa fa-bar-chart-o"></i>
+                    </div>
+                    <div class="txt-money">
+                        <h4>
+                            Статистика
+                        </h4>
+                        <p>
+                            Заполнение всех статистечиских показателей игроков и команды. От вас только скрины
+                            результатов матча
+                        </p>
+                    </div>
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 d-flex justify-content-start money-block">
+                    <div class="icon-money">
+                        <i class="fa fa-copyright"></i>
+                    </div>
+                    <div class="txt-money">
+                        <h4>
+                            Контент
+                        </h4>
+                        <p>
+                            Наполнение сайта и социальных сетей турнира контентом, администрирование сайта, его
+                            усовершенствование
+                        </p>
+                    </div>
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 d-flex justify-content-start money-block">
+                    <div class="icon-money">
+                        <i class="fa fa-dollar"></i>
+                    </div>
+                    <div class="txt-money">
+                        <h4>
+                            Призовые
+                        </h4>
+                        <p>
+                            1 место - бесплатное участие в следующем турнире, 2 место - скидка 50% на участие в
+                            следующем турнире, 3 место - скидка 25% на участие в следующем турнире
+                        </p>
+                    </div>
+
+                </div>
+                <!-- Grid column -->
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 d-flex justify-content-start money-block">
+                    <div class="icon-money">
+                        <i class="fa fa-balance-scale"></i>
+                    </div>
+                    <div class="txt-money">
+                        <h4>
+                            Поведение
+                        </h4>
+                        <p>
+                            Поведение команд регламентируется регламентом, который указан на странице регистрации на
+                            турнир
+                        </p>
+                    </div>
+
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- money sektion -->
+
+
+
+        <!-- contact sektion -->
+
+        <div class="container-fluid text-center text-md-left">
+
+            <!-- Grid row -->
+            <div class="row contact">
+
+                <div class="title-contact">
+                    <h3>
+                        Связь с организаторами
+                    </h3>
+                </div>
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 contact-form">
+                    <form>
+                        <div class="form-group">
+                            <label for="exampleInputid">Ваш Id (обязательно)</label>
+                            <input type="id" class="form-control" id="exampleInputid" aria-describedby="id">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputemail">Ваш e-mail (обязательно)</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputtheme">Тема</label>
+                            <input type="text" class="form-control" id="theme" aria-describedby="theme">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputtext">Сообщение</label>
+                            <textarea type="text" class="form-control message" id="exampleInputtext"></textarea>
+                        </div>
+                        <div class="contact-polis">
+                            Нажимая "Отправить" вы автоматически соглашаетесь с условиями
+                            <a href="#" class="link-polis"> политики конфиденциальности</a>
+                        </div>
+                        <button type="submit" class="btn btn-primary">ОТПРАВИТЬ</button>
+                    </form>
+
+
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3 contact-img">
+
+                    <img src="./../../assets/img/bg-cont.png" width="100%" height="100%" class="img-contact" alt="">
+                </div>
+                <!-- Grid column -->
+
+
+
+            </div>
+            <!-- Grid row -->
+
+        </div>
+
+        <!-- contact sektion -->
+    </div>
+</template>
+
+<script>
+    export default {
+        name: 'home'
+    } 
+</script>
+
+<style>
+    .navbar {
+        background: transparent;
+    }
+</style>

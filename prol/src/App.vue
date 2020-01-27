@@ -1,23 +1,26 @@
 <template>
   <div id="app">
-    <header/>
-      <router-view></router-view>
-    <footer/>
+    <Header/>
+    <transition name="fade" mode="out-in">
+      <router-view/>
+    </transition>
+    <Footer/>
   </div>
 </template>
 
 <script>
-import header from './components/template/header.vue'
-import footer from './components/template/footer.vue'
+import Header from './components/layout/Header'
+import Footer from './components/layout/Footer'
+
 export default {
   name: 'app',
   components: {
-    header,
-    footer
+    Header,
+    Footer
   }
 }
 </script>
 
 <style lang="scss">
-@import "./assets/style/main.scss";
+  @import "./assets/style/main.scss";
 </style>
